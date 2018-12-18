@@ -1,2 +1,2 @@
-Size of each file of the balanced set is about 21 MB
-Size of each file of the unbalanced set is about 84.26 MB
+Use balanced-reviews.zip for the latest balanced dataset.
+Use unbalanced-reviews.rar for the latest unbalanced dataset.
